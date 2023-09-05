@@ -1,0 +1,4 @@
+webrick:
+  headers:
+    Cache-Control: public,must-revalidate,max-age=315360000
+    Access-Control-Allow-Origin: "*"
